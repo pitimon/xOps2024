@@ -63,7 +63,7 @@
                 <mxCell id="AY0THH2m7d75gaI-gUGR-22" value="IDrac" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
                     <mxGeometry x="460" y="515" width="70" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="AY0THH2m7d75gaI-gUGR-23" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;VLans&amp;amp;IP&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;- Services [801-810]&lt;/div&gt;&lt;div&gt;- Mgmt [851-852]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;IP Subnet:&lt;/div&gt;&lt;div&gt;Vid 801 = 10.80.1.0/24&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+                <mxCell id="AY0THH2m7d75gaI-gUGR-23" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;VLans&amp;amp;IP&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;- Services [801-810]&lt;/div&gt;&lt;div&gt;- Mgmt [851-852]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;IP Subnet:&lt;/div&gt;&lt;div&gt;Vid 8[x][y] = 10.8[x].[y].0/24&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
                     <mxGeometry x="647" y="395" width="180" height="120" as="geometry"/>
                 </mxCell>
                 <mxCell id="3" value="Proxmox and Ceph" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
