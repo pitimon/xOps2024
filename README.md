@@ -26,5 +26,13 @@
 
 ## Diagram
 ![Diagram Lab](./misc/xOps_Dia01.png)
+
+## Lab Equipment
+- Fortinet 60E 
+  - [datasheet](https://www.firewalls.com/pub/media/wysiwyg/datasheets/Fortinet/FG-FW-60E.pdf)
+  - [FortiOS](https://docs.fortinet.com/product/fortigate/hardware)
+- Fortiswitch 424D
+  - [dpecification](https://www.avfirewalls.com.au/FortiSwitch-424D.asp)
+- 
 ## Share
 - (https://nextc.ipv9.me/index.php/s/zzmPAB5zzm58axC) expire 31/12/2024 (password in class)
