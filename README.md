@@ -35,6 +35,8 @@
   - [dpecification](https://www.avfirewalls.com.au/FortiSwitch-424D.asp)
 - Dell R330
   - [datasheet](https://i.dell.com/sites/csdocuments/Shared-Content_data-Sheets_Documents/en/aa/Dell_PowerEdge_R330_SpecSheet_final.pdf)
-  
+- Proxmox
+  - [Download](https://www.proxmox.com/en/downloads)
+  - [PVE Admin Guide](https://pve.proxmox.com/pve-docs/pve-admin-guide.html)  
 ## Share
 - (https://nextc.ipv9.me/index.php/s/zzmPAB5zzm58axC) expire 31/12/2024 (password in class)
