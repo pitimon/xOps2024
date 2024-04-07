@@ -26,6 +26,8 @@
 
 ## Diagram
 ![Diagram Lab](./misc/xOps_Dia01.png)
+![week2-1](./misc/week2-1.png)
+![week2-2](./misc/week2-2.png)
 
 ## Lab Equipment
 - Fortinet 60E 
