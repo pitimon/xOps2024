@@ -28,6 +28,7 @@
 ![Diagram Lab](./misc/xOps_Dia01.png)
 ![week2-1](./misc/week2-1.png)
 ![week2-2](./misc/week2-2.png)
+![draw.io](https://app.diagrams.net/#Hpitimon%2FxOps2024%2Fmain%2Fmisc%2Fproxmox24.drawio#%7B%22pageId%22%3A%22ztWUro-rzghUD-m8kAbv%22%7D)
 
 ## Lab Equipment
 - Fortinet 60E 
