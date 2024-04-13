@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-08T09:36:06.082Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="m4uNUj4HbMpBovCQ8-kj" version="24.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-13T04:15:42.342Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="O_olXz3wjf2MqkbTyOb1" version="24.2.2" type="github">
   <diagram name="Page-1" id="ztWUro-rzghUD-m8kAbv">
-    <mxGraphModel dx="2261" dy="824" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="1">
+    <mxGraphModel dx="2261" dy="944" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -112,7 +112,7 @@
           <mxGeometry x="200" y="750" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-3gjhVd2e0U2qaBxWlYf-17" value="Mgmt&amp;nbsp;&lt;div&gt;ens18&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fontColor=#143642;" parent="1" vertex="1">
-          <mxGeometry x="310" y="790" width="60" height="30" as="geometry" />
+          <mxGeometry x="310" y="840" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-3gjhVd2e0U2qaBxWlYf-18" value="Nested Virtualization" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fontColor=#143642;" parent="1" vertex="1">
           <mxGeometry x="490" y="620" width="139" height="30" as="geometry" />
@@ -151,7 +151,7 @@
           <mxGeometry x="200" y="1020" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-3gjhVd2e0U2qaBxWlYf-33" value="Mgmt&amp;nbsp;&lt;div&gt;ens18&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fontColor=#143642;" parent="1" vertex="1">
-          <mxGeometry x="300" y="1060" width="60" height="30" as="geometry" />
+          <mxGeometry x="310" y="1110" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-3gjhVd2e0U2qaBxWlYf-34" value="Bridge&lt;div&gt;vmbr99&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" parent="1" vertex="1">
           <mxGeometry x="255" y="1090" width="50" height="30" as="geometry" />
@@ -250,7 +250,7 @@
         <mxCell id="nm10e_bSIk5VX9C-qgu8-8" value="10.85.2.248" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="725" y="350" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GawyhNFz6hCxLlc0VYlX-8" value="&lt;font style=&quot;font-size: 21px;&quot; face=&quot;Garamond&quot;&gt;CPE Camp 2024&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#6a00ff;strokeColor=#3700CC;fontSize=17;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="GawyhNFz6hCxLlc0VYlX-8" value="&lt;font style=&quot;font-size: 21px;&quot; face=&quot;Garamond&quot;&gt;CPE Camp 2024&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#6a00ff;strokeColor=#3700CC;fontSize=17;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="10" y="20" width="250" height="30" as="geometry" />
         </mxCell>
       </root>
