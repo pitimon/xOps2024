@@ -50,7 +50,7 @@
   - [Ceph](https://insujang.github.io/2020-08-30/introduction-to-ceph/)
     - [Architecture](https://docs.ceph.com/en/latest/architecture/)
   
-  
+
     ![](./misc/Ceph-cluster_blog-storage.webp)
 ## Share
 - (https://nextc.ipv9.me/index.php/s/zzmPAB5zzm58axC) expire 31/12/2024 (password in class)
