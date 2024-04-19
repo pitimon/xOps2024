@@ -45,6 +45,7 @@
   - [Download](https://www.proxmox.com/en/downloads)
   - [PVE Admin Guide](https://pve.proxmox.com/pve-docs/pve-admin-guide.html)  
   - [Ceph](https://insujang.github.io/2020-08-30/introduction-to-ceph/)
-  
+  - openVswitch
+    - ![architecture](./misc/ovs_architecture_01.png)
 ## Share
 - (https://nextc.ipv9.me/index.php/s/zzmPAB5zzm58axC) expire 31/12/2024 (password in class)
