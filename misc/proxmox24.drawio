@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-20T22:28:00.281Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" version="24.2.5" etag="mS5RQudVgLFXjKeDEqQR" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-20T22:41:36.471Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" version="24.2.5" etag="HSHWDFq2fK5RQoiuwaK3" type="github">
   <diagram name="Page-1" id="ztWUro-rzghUD-m8kAbv">
     <mxGraphModel dx="2843" dy="944" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#FFFFFF" math="0" shadow="1">
       <root>
@@ -76,7 +76,7 @@
           <mxGeometry x="-431" y="610" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AY0THH2m7d75gaI-gUGR-23" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;vLANs&amp;amp;IP&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;- Services [801-810]&lt;/div&gt;&lt;div&gt;- Mgmt [851-852]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;IP Subnet:&lt;/div&gt;&lt;div&gt;Vid 8[x][y] = 10.8[x].[y].0/24&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;vid 851 = 10.85.1.[11-13]/24 Gw 1.1&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
-          <mxGeometry x="-253" y="715" width="223" height="180" as="geometry" />
+          <mxGeometry x="-240" y="647" width="223" height="180" as="geometry" />
         </mxCell>
         <mxCell id="3" value="Proxmox and Ceph" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="-619" y="655" width="256" height="25" as="geometry" />
@@ -346,7 +346,7 @@
         </mxCell>
         <mxCell id="gH5XdHVikVQk0DPUbPM3-26" value="" style="endArrow=none;html=1;rounded=1;curved=0;strokeWidth=3;labelBackgroundColor=none;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="70" y="1000" as="sourcePoint" />
+            <mxPoint x="70" y="1076" as="sourcePoint" />
             <mxPoint x="70" y="80" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -586,6 +586,12 @@
         </mxCell>
         <mxCell id="aSV_27zMtglbb49Uwb_O-57" value="203.158.246.253" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="-625" y="1441" width="145" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CpSZGrn6_CZpJyLqv0Sy-8" value="" style="endArrow=none;html=1;rounded=1;curved=0;strokeWidth=3;labelBackgroundColor=none;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-838" y="1083" as="sourcePoint" />
+            <mxPoint x="946" y="1074" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
