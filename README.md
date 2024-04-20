@@ -43,11 +43,11 @@
   - [datasheet](https://i.dell.com/sites/csdocuments/Shared-Content_data-Sheets_Documents/en/aa/Dell_PowerEdge_R330_SpecSheet_final.pdf)
 - Proxmox
   - [Download](https://www.proxmox.com/en/downloads)
-  - [PVE Admin Guide](https://pve.proxmox.com/pve-docs/pve-admin-guide.html)  
+  - [PVE Admin Guide](https://pve.proxmox.com/pve-docs/pve-admin-guide.html) 
+  >> 3rd week 
   - [OpenVswitch](https://docs.openvswitch.org/en/latest/intro/what-is-ovs/)
     - ![https://hustcat.github.io/an-introduction-to-ovs-architecture/](./misc/ovs_architecture_01.png)
   
-
   - [Ceph](https://insujang.github.io/2020-08-30/introduction-to-ceph/)
     - [Architecture](https://docs.ceph.com/en/latest/architecture/)
   
