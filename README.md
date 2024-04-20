@@ -47,8 +47,7 @@
   - [OpenVswitch](https://docs.openvswitch.org/en/latest/intro/what-is-ovs/)
     - ![https://hustcat.github.io/an-introduction-to-ovs-architecture/](./misc/ovs_architecture_01.png)
   
-  - LVM
-  - ![](./misc/LVM.JPG)
+
   - [Ceph](https://insujang.github.io/2020-08-30/introduction-to-ceph/)
     - [Architecture](https://docs.ceph.com/en/latest/architecture/)
   
