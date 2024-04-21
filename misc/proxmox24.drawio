@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-20T23:22:39.210Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="fOAYV-_-4xf5zn0bn86V" version="24.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-21T02:21:10.249Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="PI_zrEmbBbvAWYCkrpYw" version="24.2.7" type="github">
   <diagram name="Page-1" id="ztWUro-rzghUD-m8kAbv">
-    <mxGraphModel dx="2364" dy="788" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#FFFFFF" math="0" shadow="1">
+    <mxGraphModel dx="2158" dy="652" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#FFFFFF" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -592,6 +592,9 @@
             <mxPoint x="-838" y="1083" as="sourcePoint" />
             <mxPoint x="946" y="1074" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="i4I8isnYU2FzP2hVQ5ua-8" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Group:&lt;/h1&gt;&lt;div&gt;- Mgmt (Turk_lab)&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;- Switch/Server(Idrac)&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Mgmt (Lab)&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;- Fw&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;- Server OS&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;- Proxmox&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="128" y="1828" width="180" height="145" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
