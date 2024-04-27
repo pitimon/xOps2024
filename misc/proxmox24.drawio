@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-27T00:06:05.338Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="BICEwyKoLJBNYT_U3x_Y" version="24.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-27T00:06:39.977Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="QBXYHUxpqBjHMMJqLMpv" version="24.2.7" type="github">
   <diagram name="Page-1" id="ztWUro-rzghUD-m8kAbv">
     <mxGraphModel dx="2158" dy="652" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#FFFFFF" math="0" shadow="1">
       <root>
@@ -140,8 +140,8 @@
         <mxCell id="-3gjhVd2e0U2qaBxWlYf-19" value="Proxmox&lt;div&gt;- Debian&lt;/div&gt;&lt;div&gt;- KVM, LXD&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="355" y="15" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="-3gjhVd2e0U2qaBxWlYf-22" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Disk:&lt;/h1&gt;&lt;div&gt;- OS(PVE) = 128GB&lt;/div&gt;&lt;div&gt;- lvm-thin = 370GB&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
-          <mxGeometry x="490" y="260" width="180" height="80" as="geometry" />
+        <mxCell id="-3gjhVd2e0U2qaBxWlYf-22" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Disk:&lt;/h1&gt;&lt;div&gt;- OS(PVE) = 128GB&lt;/div&gt;&lt;div&gt;- lvm-thin = 370GB&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="204" y="248" width="121" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-3gjhVd2e0U2qaBxWlYf-23" value="Bridge&lt;div&gt;vmbr99&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="455" y="220" width="50" height="30" as="geometry" />
