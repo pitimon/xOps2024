@@ -53,5 +53,11 @@
   
 
     ![](./misc/Ceph-cluster_blog-storage.webp)
+
+## clip
+- [local disk mgmt](https://www.loom.com/share/c29fabd6cdaf4325b36229faf555ceb4?sid=acb01e2e-b193-48d9-a227-ee720552fde1)
+- [create cluster](https://www.loom.com/share/a1b90bcfd03140f188fcf1acc0e6e5bb?sid=14cb5774-2b1f-468b-b49a-5c8fb067b100)
+- [node mgmt]()
+- 
 ## Share
 - (https://nextc.ipv9.me/index.php/s/zzmPAB5zzm58axC) expire 31/12/2024 (password in class)
