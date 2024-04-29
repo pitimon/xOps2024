@@ -50,11 +50,11 @@
   
   - [Ceph](https://insujang.github.io/2020-08-30/introduction-to-ceph/)
     - [Architecture](https://docs.ceph.com/en/latest/architecture/)
-    - [Network](https://docs.ceph.com/en/quincy/_images/ditaa-3bf285dacff79a5fe5eea8dd9ca2bd41baa26061.png)
-  
+    
 
     ![](./misc/Ceph-cluster_blog-storage.webp)
-
+    ![Network](https://docs.ceph.com/en/quincy/_images/ditaa-3bf285dacff79a5fe5eea8dd9ca2bd41baa26061.png)
+  
 ## Tech-EP
 - [local disk mgmt](https://www.loom.com/share/c29fabd6cdaf4325b36229faf555ceb4?sid=acb01e2e-b193-48d9-a227-ee720552fde1)
 - [create cluster](https://www.loom.com/share/a1b90bcfd03140f188fcf1acc0e6e5bb?sid=14cb5774-2b1f-468b-b49a-5c8fb067b100)
