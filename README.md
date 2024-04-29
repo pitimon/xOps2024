@@ -53,6 +53,7 @@
     
 
     ![](./misc/Ceph-cluster_blog-storage.webp)
+    - [Network](https://docs.ceph.com/en/quincy/rados/configuration/network-config-ref/)
     ![Network](https://docs.ceph.com/en/quincy/_images/ditaa-3bf285dacff79a5fe5eea8dd9ca2bd41baa26061.png)
   
 ## Tech-EP
