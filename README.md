@@ -50,6 +50,7 @@
   
   - [Ceph](https://insujang.github.io/2020-08-30/introduction-to-ceph/)
     - [Architecture](https://docs.ceph.com/en/latest/architecture/)
+    - [Network](https://docs.ceph.com/en/quincy/_images/ditaa-3bf285dacff79a5fe5eea8dd9ca2bd41baa26061.png)
   
 
     ![](./misc/Ceph-cluster_blog-storage.webp)
