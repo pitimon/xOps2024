@@ -19,7 +19,12 @@ qm clone 8000 521 --full true --name vm521
 
 ```
 
-- multi vm clone
+- multi vm clone from template
 ```
 n=500;for i in {1..20};do vmname=$(($n + $i)) ; echo qm clone 8000 $vmname --full true --name vm$vmname;done
+```
+
+- vm destroy
+```
+qm destroy [vmid]
 ```
