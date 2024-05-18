@@ -29,3 +29,17 @@ n=500;for i in {1..20};do vmname=$(($n + $i)) ; echo qm clone 8000 $vmname --ful
 qm destroy [vmid]
 ```
 
+- IPv4 forward
+```
+echo 'net.ipv4.ip_forward = 1' | sudo tee -a /etc/sysctl.conf
+echo 'net.ipv6.conf.all.forwarding = 1' | sudo tee -a /etc/sysctl.conf
+sudo sysctl -p /etc/sysctl.conf
+```
+```
+tailscale down
+tailscale up --advertise-routes=10.85.1.0/24,10.80.1.0/24 --reset 
+```
+
+
+
+
