@@ -2,7 +2,7 @@
 - shell to proxmox node
 ```
 wget https://cloud-images.ubuntu.com/jammy/current/jammy-server-cloudimg-amd64-disk-kvm.img
-
+wget http://rustdesk.ipv9.me/iso/jammy-server-cloudimg-amd64.img
 ```
 ```
 qm create 8000 --core 2 --memory 2048 --name u2204CloudTemplate --net0 virtio,bridge=vmbr1 --serial0 socket --agent enabled=1
