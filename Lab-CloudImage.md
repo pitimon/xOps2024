@@ -12,3 +12,14 @@ qm resize 8000 scsi0 +8G
 qm set 8000 --ide2 ceph_replic:cloudinit
 qm set 8000 --boot c --bootdisk scsi0
 ```
+- clone Template
+
+```
+qm clone 8000 521 --full true --name vm521
+
+```
+
+- multi vm clone
+```
+n=500;for i in {1..20};do vmname=$(($n + $i)) ; echo qm clone 8000 $vmname --full true --name vm$vmname;done
+```
