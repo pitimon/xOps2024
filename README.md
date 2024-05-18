@@ -62,5 +62,7 @@
 - [delete node from cluster](https://www.loom.com/share/8585a75afff149e4b8fefcf045c973f8?sid=de60082b-316d-4813-9464-edbd694305c3)
 > [ceph lab diagram](https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&page-id=RCs6iucFKTKZFGCQFQhN&title=proxmox24.drawio#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fpitimon%2FxOps2024%2Fmain%2Fmisc%2Fproxmox24.drawio)
 - [ceph cluster](https://www.loom.com/share/ba40543b964042ef9e260b9fa71b4d34?sid=d0e44c79-9930-4032-ab9e-7af5bfc5c1d9)
+
+
 ## Share
 - (https://nextc.ipv9.me/index.php/s/zzmPAB5zzm58axC) expire 31/12/2024 (password in class)
