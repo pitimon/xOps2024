@@ -1,4 +1,4 @@
-[Ubuntu](https://cloud-images.ubuntu.com/)
+[Ubuntu Cloud Images](https://cloud-images.ubuntu.com/)
 ```
 
 ```
