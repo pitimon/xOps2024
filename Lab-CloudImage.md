@@ -28,27 +28,4 @@ n=500;for i in {1..20};do vmname=$(($n + $i)) ; echo qm clone 8000 $vmname --ful
 ```
 qm destroy [vmid]
 ```
-- Group 250
-```
-curl -L --output cloudflared.deb https://github.com/cloudflare/cloudflared/releases/latest/download/cloudflared-linux-amd64.deb && 
 
-sudo dpkg -i cloudflared.deb && 
-
-sudo cloudflared service install eyJhIjoiNWZkZjAwYmY5OGUxNGJiYTJkY2Q3NDhmMmYyODBjMWMiLCJ0IjoiYjU0YTQ4OTUtYmNkYS00MjE1LTgwNGItMDgxYWNhZDVhMDMyIiwicyI6Ill6VXlOV0UzTURVdFpURTBNeTAwWkdSbExUazRNekl0WlRobVpXTTBPV0UyT1RKaSJ9
-```
-- Group 251
-```
-curl -L --output cloudflared.deb https://github.com/cloudflare/cloudflared/releases/latest/download/cloudflared-linux-amd64.deb && 
-
-sudo dpkg -i cloudflared.deb && 
-
-sudo cloudflared service install eyJhIjoiNWZkZjAwYmY5OGUxNGJiYTJkY2Q3NDhmMmYyODBjMWMiLCJ0IjoiZjFkYjlhODktNmQyZi00ZGU4LWFmODAtOGUzNjE3ZjI2NjQ2IiwicyI6IlpXSmlOV1EzTVRRdFl6azNNUzAwTTJNMUxXRmpPRFV0TVdRNVpESmlaRE5sWTJReiJ9
-```
-- Group 252
-```
-curl -L --output cloudflared.deb https://github.com/cloudflare/cloudflared/releases/latest/download/cloudflared-linux-amd64.deb && 
-
-sudo dpkg -i cloudflared.deb && 
-
-sudo cloudflared service install eyJhIjoiNWZkZjAwYmY5OGUxNGJiYTJkY2Q3NDhmMmYyODBjMWMiLCJ0IjoiOTRmNmUzMWMtYzU4ZS00ZjMyLWIzN2ItODU3NTljMjExNGNkIiwicyI6IlpXUTRNV1JtWW1JdFpXWXpZaTAwTjJSaExUZ3pZMkl0TWpRMll6Y3daR05tTUdVNSJ9
-```
