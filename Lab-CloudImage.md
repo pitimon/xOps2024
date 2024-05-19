@@ -12,14 +12,14 @@ qm resize 8000 scsi0 +8G
 qm set 8000 --ide2 ceph_replic:cloudinit
 qm set 8000 --boot c --bootdisk scsi0
 ```
-- clone Template
+- clone Template 
 
 ```
 qm clone 8000 521 --full true --name vm521
 
 ```
 
-- multi vm clone from template
+- echo multi-vm clone from template
 ```
 n=500;for i in {1..20};do vmname=$(($n + $i)) ; echo qm clone 8000 $vmname --full true --name vm$vmname;done
 ```
@@ -29,7 +29,8 @@ n=500;for i in {1..20};do vmname=$(($n + $i)) ; echo qm clone 8000 $vmname --ful
 qm destroy [vmid]
 ```
 
-- IPv4 forward
+- Tailscale technic
+>> IPv4 forward
 ```
 echo 'net.ipv4.ip_forward = 1' | sudo tee -a /etc/sysctl.conf
 echo 'net.ipv6.conf.all.forwarding = 1' | sudo tee -a /etc/sysctl.conf
