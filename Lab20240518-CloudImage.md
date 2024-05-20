@@ -62,23 +62,15 @@ sudo dpkg-reconfigure tzdata
 - set ntp client
 ```
 sudo apt install chrony -y
+sudo bash -c 'echo "server ntp.en.rmutt.ac.th iburst" >> /etc/chrony/chrony.conf'
 ```
->> edit /etc/chrony/chrony.conf
->> - add before pool line "server ntp.en.rmutt.ac.th iburst"
-- Configure example
->>> 
-server ntp.en.rmutt.ac.th iburst
-pool ntp.ubuntu.com        iburst maxsources 4
-pool 0.ubuntu.pool.ntp.org iburst maxsources 1
-pool 1.ubuntu.pool.ntp.org iburst maxsources 1
-pool 2.ubuntu.pool.ntp.org iburst maxsources 2
-- save & restart service
+- restart service
 ```
 sudo systemctl restart chronyd
 ```
 - check
 ```
-sudo chronyc sources 
+chronyc sources 
 ```
 - result
 >> ^* ntp.en.rmutt.ac.th            2   6    17    12   -171us[  -65us] +/-   18ms             
