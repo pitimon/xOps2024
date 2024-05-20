@@ -1,8 +1,9 @@
 # Image download [amd64, qcow2]
-[Ubuntu Cloud Images](https://cloud-images.ubuntu.com/)
-[Debian Cloud Images](https://cloud.debian.org/images/cloud/)
+- [Ubuntu Cloud Images](https://cloud-images.ubuntu.com/)
+- [Debian Cloud Images](https://cloud.debian.org/images/cloud/)
 
-- shell to proxmox node
+# Step
+>> shell to proxmox node
 ```
 wget https://cloud-images.ubuntu.com/jammy/current/jammy-server-cloudimg-amd64.img
 wget http://rustdesk.ipv9.me/iso/jammy-server-cloudimg-amd64.img
