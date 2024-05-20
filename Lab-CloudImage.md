@@ -1,4 +1,7 @@
+# Image download [amd64, qcow2]
 [Ubuntu Cloud Images](https://cloud-images.ubuntu.com/)
+[Debian Cloud Images](https://cloud.debian.org/images/cloud/)
+
 - shell to proxmox node
 ```
 wget https://cloud-images.ubuntu.com/jammy/current/jammy-server-cloudimg-amd64.img
@@ -37,10 +40,11 @@ echo 'net.ipv6.conf.all.forwarding = 1' | sudo tee -a /etc/sysctl.conf
 sudo sysctl -p /etc/sysctl.conf
 ```
 ```
-tailscale down
-tailscale up --advertise-routes=10.85.1.0/24,10.80.1.0/24 --reset 
+sudo tailscale down
+sudo tailscale up --advertise-routes=10.85.1.0/24,10.80.1.0/24 --reset 
 ```
 
 
+# Post Install
 
 
