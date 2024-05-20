@@ -65,8 +65,8 @@ sudo apt install chrony -y
 ```
 >> edit /etc/chrony/chrony.conf
 >> - add before pool line "server ntp.en.rmutt.ac.th iburst"
-- same
->> 
+- Configure example
+>>> 
 server ntp.en.rmutt.ac.th iburst
 pool ntp.ubuntu.com        iburst maxsources 4
 pool 0.ubuntu.pool.ntp.org iburst maxsources 1
