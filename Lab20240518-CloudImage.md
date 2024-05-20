@@ -50,7 +50,7 @@ sudo tailscale up --advertise-routes=10.85.1.0/24,10.80.1.0/24 --reset
 # Post Install/clone
 - Qemu agent
 ```
-sudo apt update ; sudo apt install qemu-guest-agent
+sudo apt update ; sudo apt install qemu-guest-agent -y
 sudo systemctl restart qemu-guest-agent
 sudo systemctl status qemu-guest-agent
 ```
