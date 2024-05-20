@@ -64,19 +64,21 @@ sudo dpkg-reconfigure tzdata
 sudo apt install chrony -y
 ```
 >> edit /etc/chrony/chrony.conf
->> - comment all pool
->> - new "pool time.google.com        iburst maxsources 4"
+>> - add before pool line "server ntp.en.rmutt.ac.th iburst"
+- same
+>> 
+server ntp.en.rmutt.ac.th iburst
+pool ntp.ubuntu.com        iburst maxsources 4
+pool 0.ubuntu.pool.ntp.org iburst maxsources 1
+pool 1.ubuntu.pool.ntp.org iburst maxsources 1
+pool 2.ubuntu.pool.ntp.org iburst maxsources 2
+- save & restart service
 ```
 sudo systemctl restart chronyd
 ```
 - check
 ```
-sudo chronyc sources -v
+sudo chronyc sources 
 ```
->> promote to NTP server edit /etc/chrony/chrony.conf
->> add "allow 0.0.0.0/0" last line
->> restart ntp service
-- verify
-```
-sudo ss -tunpl | grep 123
-```
+- result
+>> ^* ntp.en.rmutt.ac.th            2   6    17    12   -171us[  -65us] +/-   18ms             
