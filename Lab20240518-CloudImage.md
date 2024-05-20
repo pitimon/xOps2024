@@ -55,5 +55,28 @@ sudo apt update ; sudo apt install qemu-guest-agent -y
 sudo systemctl restart qemu-guest-agent
 sudo systemctl status qemu-guest-agent
 ```
-
-
+- set Timezone
+```
+sudo dpkg-reconfigure tzdata
+```
+- set ntp client
+```
+sudo apt install chrony -y
+```
+>> edit /etc/chrony/chrony.conf
+>> - comment all pool
+>> - new "pool time.google.com        iburst maxsources 4"
+```
+sudo systemctl restart chronyd
+```
+- check
+```
+sudo chronyc sources -v
+```
+>> promote to NTP server edit /etc/chrony/chrony.conf
+>> add "allow 0.0.0.0/0" last line
+>> restart ntp service
+- verify
+```
+sudo ss -tunpl | grep 123
+```
