@@ -43,7 +43,7 @@ sudo sysctl -p /etc/sysctl.conf
 ```
 ```
 sudo tailscale down
-sudo tailscale up --advertise-routes=10.85.1.0/24,10.80.1.0/24 --reset 
+sudo tailscale up --advertise-routes=10.85.1.0/24,10.80.1.0/24 --reset --accept-dns=false
 ```
 >> - advertise-route (ต้องการประกาศให้ client อื่นๆ ผ่านโหนดนี้ไปยัง subnet อะไรบ้าง)
 >> - ประกาศ subnet จาก parameter นี้แล้ว ต้องไป approve ที่ tailscale portal ด้วย
