@@ -63,7 +63,7 @@
 > [ceph lab diagram](https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&page-id=RCs6iucFKTKZFGCQFQhN&title=proxmox24.drawio#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fpitimon%2FxOps2024%2Fmain%2Fmisc%2Fproxmox24.drawio)
 - [ceph cluster](https://www.loom.com/share/ba40543b964042ef9e260b9fa71b4d34?sid=d0e44c79-9930-4032-ab9e-7af5bfc5c1d9)
 - [Cloud Image](https://www.loom.com/share/84a3720bc5584835a2ba0ebb757d4692?sid=45f6bff9-e140-4a13-a150-c085c0e37009)
-  >> [command code]()
+  >> [command code](https://github.com/pitimon/xOps2024/tree/main/cloudImageDeploy)
 
 
 ## Share
