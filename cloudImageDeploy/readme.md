@@ -39,8 +39,6 @@ qm list
 qm start 8000
 qm terminal 8000
 qm agent 8000 network-get-interfaces
-qm stop 8000
-qm destroy 8000
 ```
 - create template
 ```
@@ -98,4 +96,18 @@ sudo usermod -aG docker $USER
 ```
 dosker ps
 docker run hello-world
+```
+- create template
+  >> On guest
+```
+cp /dev/null /etc/machine-id
+rm /var/lib/dbus/machine-id
+ln -s /etc/machine-id /var/lib/dbus/machine-id
+init 0
+```
+  >> On pve node
+```
+qm template 8000
+qm clone 8000 888 --full true --name demo101
+qm clone 8000 889 --full true --name demo102
 ```
