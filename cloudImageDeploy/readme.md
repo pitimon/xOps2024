@@ -8,6 +8,7 @@
 [Debian Cloud Image](https://cloud.debian.org/images/cloud/)
 [Fedora Cloud Image](https://fedoraproject.org/cloud/download)
 
+## Demo command
 ```
 wget https://cloud-images.ubuntu.com/noble/current/noble-server-cloudimg-amd64.img
 ./qmtemplate.sh 5000 vmbr1 noble-server-cloudimg-amd64.img era_pve
