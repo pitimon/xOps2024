@@ -1,4 +1,5 @@
 
+[Ep. Cloud Image](https://www.loom.com/share/84a3720bc5584835a2ba0ebb757d4692?sid=93c273af-4b29-43aa-b2da-5198e1a49bc4)
 ## Original Cloud Image
 ```
 wget https://cloud-images.ubuntu.com/noble/current/noble-server-cloudimg-amd64.img
@@ -10,15 +11,6 @@ qm agent 5000 network-get-interfaces
 qm stop 5000
 qm destroy 5000
 ```
-
-
-
-
-
-
-
-
-
 
 ## Custom Images
 - [virt-customize](https://libguestfs.org/virt-customize.1.html)
