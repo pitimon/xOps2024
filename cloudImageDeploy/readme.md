@@ -1,6 +1,6 @@
 
-# [Ep.1.0 Cloud Image clip vdo ](https://www.loom.com/share/84a3720bc5584835a2ba0ebb757d4692?sid=93c273af-4b29-43aa-b2da-5198e1a49bc4)
-# [Ep.1.1 Cloud Image clip vdo ](https://www.loom.com/share/e889e2b41aa141c6ad61627cb63380de?sid=c301bf1b-53b1-4f17-99f3-79aeaf896a6f)
+# [Ep.Cloud Image clip vdo ตอน 1](https://www.loom.com/share/84a3720bc5584835a2ba0ebb757d4692?sid=93c273af-4b29-43aa-b2da-5198e1a49bc4)
+# [Ep.Cloud Image clip vdo ตอน 2](https://www.loom.com/share/e889e2b41aa141c6ad61627cb63380de?sid=c301bf1b-53b1-4f17-99f3-79aeaf896a6f)
 
 ## Original Cloud Image
 [Ubuntu Cloud Image](https://cloud-images.ubuntu.com/)
