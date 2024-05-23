@@ -2,7 +2,7 @@
 
 ### HOW TO USE
 ### Pre-req:
-### - run on a Proxmox 6 server
+### - run on a Proxmox server
 ### - a dhcp server should be active on vmbr1
 
 VMID=$1
