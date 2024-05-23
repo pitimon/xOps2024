@@ -1,7 +1,8 @@
 # Image download [amd64, qcow2]
 - [Ubuntu Cloud Images](https://cloud-images.ubuntu.com/)
 - [Debian Cloud Images](https://cloud.debian.org/images/cloud/)
-
+- [Fedora Cloud Images](https://fedoraproject.org/cloud/download)
+  
 # Step
 >> shell to proxmox node
 ```
