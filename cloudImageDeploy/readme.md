@@ -3,12 +3,12 @@
 - [ตอน 1](https://www.loom.com/share/84a3720bc5584835a2ba0ebb757d4692?sid=93c273af-4b29-43aa-b2da-5198e1a49bc4)
 - [ตอน 2](https://www.loom.com/share/e889e2b41aa141c6ad61627cb63380de?sid=c301bf1b-53b1-4f17-99f3-79aeaf896a6f)
 
-## Original Cloud Image
+### Original Cloud Image url
 [Ubuntu Cloud Image](https://cloud-images.ubuntu.com/)
 [Debian Cloud Image](https://cloud.debian.org/images/cloud/)
 [Fedora Cloud Image](https://fedoraproject.org/cloud/download)
 
-## Demo command
+## Demo command ตอนที่ 1
 ```
 wget https://cloud-images.ubuntu.com/noble/current/noble-server-cloudimg-amd64.img
 ./qmtemplate.sh 5000 vmbr1 noble-server-cloudimg-amd64.img era_pve
