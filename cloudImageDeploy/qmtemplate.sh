@@ -1,4 +1,10 @@
 #!/bin/bash
+
+### HOW TO USE
+### Pre-req:
+### - run on a Proxmox 6 server
+### - a dhcp server should be active on vmbr1
+
 VMID=$1
 bridge=$2
 imagename=$3
