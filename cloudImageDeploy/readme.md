@@ -22,13 +22,15 @@ qm destroy 5000
 
 ## Custom Images
 - [virt-customize](https://libguestfs.org/virt-customize.1.html)
-
+>> packet request
 ```
-cp noble-server-cloudimg-amd64.img noble-server-20240521.img
-
 apt update -y
 apt install libguestfs-tools -y
-
+```
+>> prepare images
+```
+wget https://cloud-images.ubuntu.com/noble/current/noble-server-cloudimg-amd64.img
+cp noble-server-cloudimg-amd64.img noble-server-20240521.img
 virt-customize -a noble-server-20240521.img --install qemu-guest-agent,chrony,btop
 virt-customize -a noble-server-20240521.img --append-line '/etc/chrony/chrony.conf:pool time.google.com iburst maxsources 4' --timezone Asia/Bangkok
 
