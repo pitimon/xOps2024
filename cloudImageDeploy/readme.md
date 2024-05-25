@@ -5,6 +5,7 @@
   - [command](https://github.com/pitimon/xOps2024/blob/main/cloudImageDeploy/command-ตอน2.md)
 - [ตอน 3](https://www.loom.com/share/ba174cc6ec4c455dab4385222b81eb35?sid=999b5b8d-f9f2-4cb6-86c3-618b7352a0c3)
   - [command](https://github.com/pitimon/xOps2024/blob/main/cloudImageDeploy/command-ตอน3.md)
+  - [Image customise Debian12 mySite](http://rustdesk.ipv9.me/iso/debian-12-generic-amd64-mod-20240525.qcow2)
 
 ### Original Cloud Image url
 [Ubuntu Cloud Image](https://cloud-images.ubuntu.com/)
