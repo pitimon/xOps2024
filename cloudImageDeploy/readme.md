@@ -2,9 +2,9 @@
 # Cloud Image VDO clip
 - [ตอน 1](https://www.loom.com/share/84a3720bc5584835a2ba0ebb757d4692?sid=93c273af-4b29-43aa-b2da-5198e1a49bc4)
 - [ตอน 2](https://www.loom.com/share/e889e2b41aa141c6ad61627cb63380de?sid=c301bf1b-53b1-4f17-99f3-79aeaf896a6f)
-  - [command]()
+  - [command](https://github.com/pitimon/xOps2024/blob/main/cloudImageDeploy/command-ตอน2.md)
 - [ตอน 3](https://www.loom.com/share/ba174cc6ec4c455dab4385222b81eb35?sid=999b5b8d-f9f2-4cb6-86c3-618b7352a0c3)
-  - [command]()
+  - [command](https://github.com/pitimon/xOps2024/blob/main/cloudImageDeploy/command-ตอน3.md)
 
 ### Original Cloud Image url
 [Ubuntu Cloud Image](https://cloud-images.ubuntu.com/)
