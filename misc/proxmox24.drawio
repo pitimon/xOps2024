@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-27T23:48:45.468Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="_uQVsh8-ZqSU_2ZDF0Ni" version="24.6.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-06-28T00:16:05.329Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="sly2tYHTrNIJ7q4dmnh_" version="24.6.4" type="github" pages="3">
   <diagram name="Page-1" id="ztWUro-rzghUD-m8kAbv">
     <mxGraphModel>
       <root>
@@ -40,7 +40,7 @@
           <mxGeometry x="400" y="150" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="O3YlVW8UrmbkZ4jJmgsS-11" value="Proxmox" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;labelBackgroundColor=none;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="350" y="20" width="100" height="50" as="geometry" />
+          <mxGeometry x="600" y="10" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="O3YlVW8UrmbkZ4jJmgsS-12" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Disk:&lt;/h1&gt;&lt;div&gt;- OS(PVE) = 128GB&lt;/div&gt;&lt;div&gt;- lvm-thin&amp;nbsp;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="494" y="273" width="121" height="80" as="geometry" />
