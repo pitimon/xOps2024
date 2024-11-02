@@ -105,6 +105,34 @@ sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin 
 
 sudo usermod -aG docker $USER
 ```
+```
+sudo tee /etc/decker/daemon.json << EOF
+{
+  "log-driver": "json-file",
+  "log-opts": {
+    "max-size": "100m",
+    "max-file": "3"
+  }
+}
+EOF
+
+sudo systemctl restart docker
+```
+>> update script
+```
+sudo apt install needrestart -y
+
+tee update.sh << EOF
+#!/bin/bash
+sudo DEBIAN_FRONTEND=noninteractive apt update && \
+sudo DEBIAN_FRONTEND=noninteractive apt upgrade -y && \
+sudo needrestart -b -r a && \
+sudo DEBIAN_FRONTEND=noninteractive apt autoremove -y
+EOF
+
+chmod +x update.sh
+./update.sh
+```
 >> re-login
 ```
 dosker ps
