@@ -1,15 +1,15 @@
 ## Re-again cloud image deploy (optimal resource)
 ```
-./qmtemplate.sh 8000 vmbr1 noble-server-20240521.img ceph_replic
+./qmtemplate.sh 9000 vmbr0,tag=701 noble-server-20240521.img ceph_tiering
 ```
 ```
-qm set 8000 --cipassword="12341234" --ciuser=test
-qm set 8000 --sshkey ./mykey.pub
+qm set 9000 --cipassword="12341234" --ciuser=test
+qm set 9000 --sshkey ./mykey.pub
 
-qm start 8000
-qm terminal 8000
+qm start 9000
+qm terminal 9000
 
-qm agent 8000 network-get-interfaces
+qm agent 9000 network-get-interfaces
 ```
 >> ssh test@[vm_IPaddr]
 
