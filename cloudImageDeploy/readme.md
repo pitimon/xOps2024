@@ -106,7 +106,7 @@ sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin 
 sudo usermod -aG docker $USER
 ```
 ```
-sudo tee /etc/decker/daemon.json << EOF
+sudo tee /etc/docker/daemon.json << EOF
 {
   "log-driver": "json-file",
   "log-opts": {
